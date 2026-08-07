@@ -1,0 +1,1 @@
+<resources><style name="Theme.MAXControl" parent="android:style/Theme.Material.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">@color/max_orange</item><item name="android:navigationBarColor">@color/max_navy</item><item name="android:statusBarColor">@color/max_navy</item></style></resources>
